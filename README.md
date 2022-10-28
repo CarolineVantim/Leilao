@@ -1,2 +1,3 @@
 # Leilao
-<hr></hr>
+
+Teste utilizando PHPUnit
